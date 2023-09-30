@@ -2,3 +2,5 @@ Hello This is my code - second changes
 
 Fixing defect here
 Fixing other defects 456
+
+Added line for git clone

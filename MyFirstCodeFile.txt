@@ -4,3 +4,5 @@ Fixing defect here
 Fixing other defects 456
 
 Added line for git clone
+
+Added new line for Git training
